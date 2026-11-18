@@ -1,0 +1,10 @@
+GOFIT - PUBLICACION EN GITHUB PAGES
+
+1. Abre https://github.com/orquideass/Gofit
+2. Add file > Upload files.
+3. Sube index.html y vista-previa.png (NO el ZIP), ambos a la raiz del repositorio.
+4. Pulsa Commit changes.
+5. Settings > Pages > Build and deployment: Deploy from a branch, main, /(root), Save.
+6. Prueba https://orquideass.github.io/Gofit/
+
+La ruleta y los stickers estan integrados dentro de index.html; no hace falta subir carpeta assets.
