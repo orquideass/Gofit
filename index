@@ -1,29 +1,24 @@
 <!doctype html><html lang="es">
 <head>
-<!-- La ruta base original mantiene las imágenes y recursos del juego. -->
-<base href="https://gofit-pruebas.sosilvaur.chatgpt.site/">
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Gofit · Tómbola interactiva</title>
-<meta name="description" content="Viste 29 posibilidades al azar. Un juego de azar para tu outfit diario, tu futura app más entretenida!">
+<base href="https://gofit-pruebas.sosilvaur.chatgpt.site/"><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>Gofit · Sitio de pruebas interactivo</title>
+<meta name="description" content="Prueba Gofit: gira la tómbola, descubre una de las 29 posibilidades al azar y explora sus stickers. Juego interactivo en desarrollo.">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="es_CL">
 <meta property="og:site_name" content="Gofit">
-<meta property="og:title" content="Gofit · Tómbola interactiva">
-<meta property="og:description" content="Viste 29 posibilidades al azar. Un juego de azar para tu outfit diario, tu futura app más entretenida!">
-<!-- Toda la tarjeta de enlace de Facebook apunta al juego, no a la imagen. -->
-<meta property="og:url" content="https://orquideass.github.io/Gofit/">
-<meta property="og:image" content="https://orquideass.github.io/Gofit/vista-previa.png?v=4">
-<meta property="og:image:secure_url" content="https://orquideass.github.io/Gofit/vista-previa.png?v=4">
+<meta property="og:title" content="Gofit · Prueba la tómbola interactiva">
+<meta property="og:description" content="Prueba Gofit: gira la tómbola, descubre una de las 29 posibilidades al azar y explora sus stickers. Juego interactivo en desarrollo.">
+<meta property="og:url" content="https://gofit-pruebas.sosilvaur.chatgpt.site">
+<meta property="og:image" content="https://gofit-pruebas.sosilvaur.chatgpt.site/assets/gofit-compartir.png">
+<meta property="og:image:secure_url" content="https://gofit-pruebas.sosilvaur.chatgpt.site/assets/gofit-compartir.png">
 <meta property="og:image:type" content="image/png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Gofit: ruleta de 29 colores sobre fondo negro con marco blanco">
+<meta property="og:image:alt" content="Gofit: tómbola de 29 colores y acceso al juego de prueba">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Gofit · Tómbola interactiva">
-<meta name="twitter:description" content="Un juego de azar para tu outfit diario, tu futura app más entretenida!">
-<meta name="twitter:image" content="https://orquideass.github.io/Gofit/vista-previa.png?v=4">
-<link rel="canonical" href="https://orquideass.github.io/Gofit/">
+<meta name="twitter:title" content="Gofit · Prueba la tómbola interactiva">
+<meta name="twitter:description" content="Prueba Gofit: gira la tómbola, descubre una de las 29 posibilidades al azar y explora sus stickers. Juego interactivo en desarrollo.">
+<meta name="twitter:image" content="https://gofit-pruebas.sosilvaur.chatgpt.site/assets/gofit-compartir.png">
+<link rel="canonical" href="https://gofit-pruebas.sosilvaur.chatgpt.site">
 <style>body{margin:0;background:black;color:white;font-family:system-ui}*{box-sizing:border-box}[hidden]{display:none!important}#tombola-restaurada .black-panel{min-width:0;width:100%;overflow:hidden;background:#000;color:white}#tombola-restaurada .black-options{display:flex;flex-wrap:nowrap;gap:6px;overflow-x:auto;padding:3px 1px 6px;scroll-snap-type:x proximity}#tombola-restaurada .black-options button{flex:0 0 calc((100% - 24px)/5);min-width:54px;height:88px;padding:4px 2px;justify-content:space-between;border-radius:13px;scroll-snap-align:start}#tombola-restaurada .black-options button[aria-pressed=true]{border-color:#419ddd;background:#17334a}#tombola-restaurada .black-options img{height:48px!important}#tombola-restaurada .black-options span{font-size:13px!important;white-space:nowrap}#tombola-restaurada .black-options{scrollbar-width:none;-ms-overflow-style:none}#tombola-restaurada .black-options::-webkit-scrollbar{display:none;width:0;height:0}</style>
 </head>
 <body>
